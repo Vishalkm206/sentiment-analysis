@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+archive/
+GoogleNews-vectors-negative300.bin.gz
+word2vec.bin
+word2vec.bin.gz
+
+
 # Distribution / packaging
 .Python
 build/
